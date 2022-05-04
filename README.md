@@ -1,3 +1,3 @@
 Portfolio 😅
 
-https://portfolio.evoltpratom.repl.co/
+https://portfolio-nine-peach-33.vercel.app/
